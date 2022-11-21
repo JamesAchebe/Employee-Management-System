@@ -1,6 +1,6 @@
 # Employee-Management-System
 This program was built using Java Swing to build the GUI and sqlite as the database.
-After forking/downloading this project. It should be able to be run in a Java ide such as Eclipse. 
+After forking/downloading this project. It should be able to be run in a Java IDE such as Eclipse. 
 We built the GUI with Eclipse Window Builder.
 
 ## Logging In
