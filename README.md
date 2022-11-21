@@ -35,17 +35,17 @@ Input Validation:
 - Phone Number must be 10 numbers no dashes
 
 Ex Input:
-First Name: matthew
-Last Name: Pham
-Email: username@domain.com
-Start Date: 02/15/2020
-End Date: 7/12/2021 (or CURR)
-Salary: 70000
-Employee ID: 333
-Phone Number: 1112223333
-Department: Engineering
-Position: Software Developer
-Date of Birth: 05/15/2002
+- First Name: matthew
+- Last Name: Pham
+- Email: username@domain.com
+- Start Date: 02/15/2020
+- End Date: 7/12/2021 (or CURR)
+- Salary: 70000
+- Employee ID: 333
+- Phone Number: 1112223333
+- Department: Engineering
+- Position: Software Developer
+- Date of Birth: 05/15/2002
 
 ## Edit Button
 Edit button also uses the same input form as the Add button. 
