@@ -5,9 +5,10 @@ We built the GUI with Eclipse Window Builder.
 
 ## Logging In
 After running the code, a window should pop up prompting the user to input a username and password and select submit.
+
 Here are the login details:
-Username: "username"
-Password: "password"
+- Username: "username"
+- Password: "password"
 
 Upon logging in a message should appear saying "Login Successful" followed by "Connection Made". 
 Then the Employee Database Management System window should appear. 
