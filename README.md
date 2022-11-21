@@ -12,6 +12,9 @@ Password: "password"
 Upon logging in a message should appear saying "Login Successful" followed by "Connection Made". 
 Then the Employee Database Management System window should appear. 
 
+![program image](https://i.imgur.com/P3nGDbg.png)
+
+
 ## Main Functionality
 On the Employee Database Management System window.
 
