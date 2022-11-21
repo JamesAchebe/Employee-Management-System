@@ -13,7 +13,7 @@ Upon logging in a message should appear saying "Login Successful" followed by "C
 Then the Employee Database Management System window should appear. 
 
 ## Main Functionality
-On the Employee Database Management System window..
+On the Employee Database Management System window.
 
 On the right is the database which updates based on what is in the employee.db file. 
 
